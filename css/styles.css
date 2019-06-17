@@ -48,10 +48,6 @@ h1 {
   transform: translateX(-50%);
 }
 
-.button.button2 {
-  top: 49%;
-}
-
 .split.left .button:hover {
   background-color: var(--left-button-hover-color);
   border-color: var(--left-button-hover-color);
